@@ -50,3 +50,10 @@ All tasks are documented here with supporting files, screenshots, and reflection
 
 ---
 
+### Task 5 – Cybercrime Awareness
+- Case Study Topic:-<img width="892" height="750" alt="Screenshot (10595)" src="https://github.com/user-attachments/assets/b359468b-a18e-4ccc-906c-1817e9cbd9e3" />
+- Checklist:-<img width="633" height="649" alt="Screenshot (10596)" src="https://github.com/user-attachments/assets/8ca1e63c-476e-4c8b-b7a9-621e939a21f1" />
+- Reflection: For Task 5, I studied phishing as a cybercrime and created a prevention checklist. I learned how attackers exploit trust and urgency to trick people into revealing sensitive information. Writing the case study made me realize that anyone can be targeted, including students. The prevention checklist helped me identify practical steps such as enabling two‑factor authentication and setting UPI transaction limits. One surprising fact was how quickly scammers can replicate official websites to look authentic. This task taught me that awareness and cautious behavior are the best defenses against cybercrime. I will now be more careful before clicking links or sharing personal details online.
+
+
+
