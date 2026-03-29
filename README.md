@@ -35,6 +35,8 @@ All tasks are documented here with supporting files, screenshots, and reflection
 ### Task 3 – Coding & Collaboration
 - Coding Platform: HackerRank (Solved “Solve Me First”)
 - Collaboration Tool: Google Forms Quiz (5 questions linked to Google Sheets)
-- Quiz Link: 
-- Screenshots: 
+- Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLScqFMrnsxo-0x9ILMpbRUQgWA8dzX8YVHinzERRdNkzL9ttaw/viewform
+- Screenshots: [HackerRank:-<img width="1566" height="941" alt="Screenshot (10580)" src="https://github.com/user-attachments/assets/2e898b60-26e4-472b-8ff2-1fe5b4632cab" />, Google form quiz:-<img width="1920" height="1080" alt="Screenshot (10584)" src="https://github.com/user-attachments/assets/7406074d-6540-4ea6-bbfd-a2dbc25c5b6e" />]
+
+
 - Reflection:-For Task 3, I practiced coding on HackerRank and created a collaborative quiz using Google Forms. On HackerRank, I solved the beginner challenge “Solve Me First,” which helped me understand how coding platforms evaluate submissions and provide instant feedback. This was motivating because it showed me where I stand and how I can improve. For collaboration, I designed a Google Form quiz on digital literacy and linked it to a Google Sheet. This exercise taught me how easy it is to collect and analyze responses in real time. One challenge was framing questions that were clear yet thought‑provoking. Overall, this task highlighted the importance of both technical practice and collaborative tools. Coding platforms build problem‑solving skills, while Google Workspace enables teamwork and communication. Together, they strengthen digital literacy in practical ways.
