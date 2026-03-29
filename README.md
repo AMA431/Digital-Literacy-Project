@@ -40,3 +40,13 @@ All tasks are documented here with supporting files, screenshots, and reflection
 
 
 - Reflection:-For Task 3, I practiced coding on HackerRank and created a collaborative quiz using Google Forms. On HackerRank, I solved the beginner challenge “Solve Me First,” which helped me understand how coding platforms evaluate submissions and provide instant feedback. This was motivating because it showed me where I stand and how I can improve. For collaboration, I designed a Google Form quiz on digital literacy and linked it to a Google Sheet. This exercise taught me how easy it is to collect and analyze responses in real time. One challenge was framing questions that were clear yet thought‑provoking. Overall, this task highlighted the importance of both technical practice and collaborative tools. Coding platforms build problem‑solving skills, while Google Workspace enables teamwork and communication. Together, they strengthen digital literacy in practical ways.
+
+---
+
+### Task 4 – Email Etiquette
+- Emails Drafted: Extension request (professor)[<img width="1881" height="500" alt="Screenshot (10591)" src="https://github.com/user-attachments/assets/5d6f6b08-dfa4-4102-a5d0-27ba3490f92d" />], Internship interest (coordinator)[<img width="1883" height="515" alt="Screenshot (10593)" src="https://github.com/user-attachments/assets/c1fc7970-5d89-4df4-9751-4344b5d2f3ab" />]
+- Checklist:-file:///C:/Users/singh/OneDrive/Pictures/Social%20Media%20Checklist(1).md
+- Reflection:-For Task 4, I drafted two professional emails and created a social media checklist. Writing the emails taught me the importance of clear subject lines, polite language, and concise communication. The extension request email showed how to respectfully approach faculty, while the internship email highlighted how to express interest professionally. The social media checklist helped me reflect on responsible online behavior. I realized that small mistakes, like oversharing or posting without fact‑checking, can harm one’s digital reputation. This task emphasized that effective communication and ethical online practices are essential parts of digital literacy.
+
+---
+
