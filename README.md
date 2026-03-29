@@ -49,7 +49,7 @@ All tasks are documented here with supporting files, screenshots, and reflection
 
 ### Task 4 – Email Etiquette
 - Emails Drafted: Extension request (professor)[<img width="1881" height="500" alt="Screenshot (10591)" src="https://github.com/user-attachments/assets/5d6f6b08-dfa4-4102-a5d0-27ba3490f92d" />], Internship interest (coordinator)[<img width="1883" height="515" alt="Screenshot (10593)" src="https://github.com/user-attachments/assets/c1fc7970-5d89-4df4-9751-4344b5d2f3ab" />]
-- Checklist:-file:///C:/Users/singh/OneDrive/Pictures/Social%20Media%20Checklist(1).md
+- Checklist:-<img width="630" height="899" alt="Screenshot (10597)" src="https://github.com/user-attachments/assets/1d139c8a-e9de-4a6c-b25c-eee8edf27e39" />
 - Reflection:-For Task 4, I drafted two professional emails and created a social media checklist. Writing the emails taught me the importance of clear subject lines, polite language, and concise communication. The extension request email showed how to respectfully approach faculty, while the internship email highlighted how to express interest professionally. The social media checklist helped me reflect on responsible online behavior. I realized that small mistakes, like oversharing or posting without fact‑checking, can harm one’s digital reputation. This task emphasized that effective communication and ethical online practices are essential parts of digital literacy.
 
 ---
