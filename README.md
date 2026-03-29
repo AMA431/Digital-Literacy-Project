@@ -20,7 +20,8 @@ All tasks are documented here with supporting files, screenshots, and reflection
 - Tool Used: Canva  
 - Topics Covered: Digital literacy basics, safe internet practices, professional presence  
 - File: <img width="452" height="703" alt="Screenshot (10570)" src="https://github.com/user-attachments/assets/fd44728e-6128-465e-8395-5a34ab0869fe" />
-- Reflection: See report (150–200 words)
+- Reflection:-I used Canva to design my infographic on Digital Literacy. It highlights three areas: understanding digital literacy, safe internet practices, and building a professional online presence. I kept the design simple with icons and short text so that it is easy for students to grasp quickly. One challenge was choosing the right visuals to match each concept, but I found that icons helped convey the message effectively. This task made me realize that digital literacy is not just about using technology but about using it responsibly and professionally. Designing the infographic also showed me how presentation style can influence how seriously people take the information.
+
 
 ---
 
